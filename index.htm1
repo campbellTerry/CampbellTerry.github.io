@@ -1,10 +1,89 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Campbell Terry</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Campbell Terry | Personal Website</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f6f8;
+    color: #222;
+}
+
+header {
+    background: #111827;
+    color: white;
+    text-align: center;
+    padding: 70px 20px;
+}
+
+header h1 {
+    font-size: 42px;
+    margin: 0 0 10px;
+}
+
+header p {
+    font-size: 18px;
+    margin: 0;
+}
+
+section {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 30px;
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+}
+
+h2 {
+    color: #111827;
+}
+
+footer {
+    text-align: center;
+    padding: 30px;
+    color: #666;
+}
+</style>
 </head>
+
 <body>
-  <h1>Welcome to Campbell Terry's Website</h1>
-  <p>This is my personal website.</p>
+
+<header>
+    <h1>Campbell Terry</h1>
+    <p>Welcome to my personal website</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>
+        Welcome to my website. This is my personal space where you can learn
+        more about me, my interests, and the things that matter to me.
+    </p>
+</section>
+
+<section>
+    <h2>My Interests</h2>
+    <p>
+        I enjoy connecting with people, learning new things, and making the
+        most out of life.
+    </p>
+</section>
+
+<section>
+    <h2>Contact</h2>
+    <p>
+        Thank you for visiting my website.
+    </p>
+</section>
+
+<footer>
+    © 2026 Campbell Terry. All rights reserved.
+</footer>
+
 </body>
 </html>
